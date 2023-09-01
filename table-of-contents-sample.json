@@ -1,0 +1,64 @@
+{
+  "reporting_entity_name": "medicare",
+  "reporting_entity_type": "medicare",
+  "reporting_structure": [
+    {
+      "reporting_plans": [
+        {
+          "plan_name": "medicaid",
+          "plan_id_type": "hios",
+          "plan_id": "1111111111",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "medicare",
+          "plan_id_type": "hios",
+          "plan_id": "000000000",
+          "plan_market_type": "individual"
+        }
+      ],
+      "in_network_files": [
+        {
+          "description": "in-network file",
+          "location": "https://raw.githubusercontent.com/CMSgov/price-transparency-guide/master/examples/in-network-rates/in-network-rates-multiple-plans-sample.json"
+        },
+        {
+          "description": "behavioral in-network shared file",
+          "location": "https://raw.githubusercontent.com/CMSgov/price-transparency-guide/master/examples/in-network-rates/in-network-rates-bundle-single-plan-sample.json"
+        },
+        {
+          "description": "another in-network shared file",
+          "location": "https://raw.githubusercontent.com/CMSgov/price-transparency-guide/master/examples/in-network-rates/in-network-rates-capitation-single-plan-sample.json"
+        }
+      ],
+      "allowed_amount_file": {
+        "description": "allowed amount file",
+        "location": "https://raw.githubusercontent.com/CMSgov/price-transparency-guide/master/examples/allowed-amounts/allowed-amounts-multiple-plan-sample.json"
+      }
+    },
+    {
+      "reporting_plans": [
+        {
+          "plan_name": "chip",
+          "plan_id_type": "hios",
+          "plan_id": "3333333333",
+          "plan_market_type": "group"
+        }
+      ],
+      "in_network_files": [
+        {
+          "description": "in-network file",
+          "location": "https://raw.githubusercontent.com/CMSgov/price-transparency-guide/master/examples/in-network-rates/in-network-rates-fee-for-service-single-plan-sample.json"
+        },
+        {
+          "description": "in-network file",
+          "location": "https://raw.githubusercontent.com/CMSgov/price-transparency-guide/master/examples/in-network-rates/in-network-rates-no-npi.json"
+        }
+      ],
+      "allowed_amount_file": {
+        "description": "allowed amount file",
+        "location": "https://raw.githubusercontent.com/CMSgov/price-transparency-guide/master/examples/allowed-amounts/allowed-amounts-single-plan-sample.json"
+      }
+    }
+  ]
+}
