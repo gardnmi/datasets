@@ -1,0 +1,34 @@
+{
+    "reporting_entity_name": "Kaiser Permanente Insurance Company",
+    "reporting_entity_type": "Group Health Plan",
+    "reporting_structure": [
+        {
+            "reporting_plans": [
+                {
+                    "plan_name": "Kaiser Permanente Insurance Company",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71562",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "Kaiser Permanente Insurance Company",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "27555",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "Kaiser Permanente Insurance Company",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "80402",
+                    "plan_market_type": "group"
+                }
+            ],
+            "in_network_files": [
+                {
+                    "location": "https://healthy.kaiserpermanente.org/pricing/innetwork/ma/2023-11-01_KPIC_MA-COMMERCIAL_in-network-rates.zip",
+                    "description": "in-network file"
+                }
+            ]
+        }
+    ]
+}

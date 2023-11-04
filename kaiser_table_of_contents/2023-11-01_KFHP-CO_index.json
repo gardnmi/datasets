@@ -1,0 +1,1282 @@
+{
+    "reporting_entity_name": "Kaiser Foundation Health Plan of Colorado",
+    "reporting_entity_type": "Group Health Plan",
+    "reporting_structure": [
+        {
+            "reporting_plans": [
+                {
+                    "plan_name": "KP COLORADO OPTION SILVER X Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO1040008",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP COLORADO OPTION SILVER ENHANCED 94% AV Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO1040008",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP COLORADO OPTION BRONZE Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO1040007",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP COLORADO OPTION SILVER 94% AV Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO1040006",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP COLORADO OPTION SILVER 73% AV Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO1040006",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP COLORADO OPTION SILVER Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO1040006",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP COLORADO OPTION GOLD Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO1040005",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP SELECT COLORADO OPTION SILVER X Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO1040004",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP SELECT COLORADO OPTION SILVER ENHANCED 94% AV Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO1040004",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP SELECT COLORADO OPTION BRONZE - AI/LTD Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO1040003",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP SELECT COLORADO OPTION BRONZE - AI/0 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO1040003",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP SELECT COLORADO OPTION BRONZE Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO1040003",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP SELECT COLORADO OPTION SILVER 94% AV Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO1040002",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP SELECT COLORADO OPTION SILVER 73% AV Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO1040002",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP SELECT COLORADO OPTION SILVER Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO1040002",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP SELECT COLORADO OPTION GOLD - AI/LTD Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO1040001",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP SELECT COLORADO OPTION GOLD - AI/0 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO1040001",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP SELECT COLORADO OPTION GOLD Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO1040001",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP COLORADO OPTION GOLD Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO1030004",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP CO VIRTUAL COMPLETE SILVER 6300/50 RX COPAY Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0790180",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP CO VIRTUAL COMPLETE BRONZE 9100/40 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0790179",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP CO BRONZE 7000/60 RX COPAY Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0790178",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP CO BRONZE 7000/100%/HSA Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0790177",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP CO BRONZE 6250/50/HSA Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0790176",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP CO SILVER DHMO PLUS 3500/45 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0790175",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP CO GOLD DHMO PLUS 2000/40 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0790174",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP CO GOLD DHMO PLUS 1250/35 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0790173",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP CO SILVER 5000/10 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0790172",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP CO SILVER 4000/50 RX COPAY Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0790171",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP CO SILVER 2800/45 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0790170",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP CO SILVER 4400/30/HSA Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0790169",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP CO SILVER 3000/30/HSA Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0790167",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP CO SILVER HSA PLUS 3500/30% Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0790166",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP CO GOLD 1750/30/HSA Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0790165",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP CO GOLD 1500/25 RX COPAY Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0790164",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP CO GOLD 2500/10 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0790163",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP CO GOLD 500/25 NEA Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0790162",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP CO GOLD 500/25 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0790161",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP CO PLATINUM 400/10 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0790160",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP CO GOLD 0/20 RX COPAY Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0790159",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP CO PLATINUM 0/10 RX COPAY Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0790158",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP CO PLATINUM DHMO PLUS 250/20 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0790157",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP CO SILVER 5000/10 NEA Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0790155",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP SELECT CO GOLD 2500/10 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0790154",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP SELECT CO SILVER 5000/10 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0790145",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP SELECT CO VIRTUAL COMPLETE BRONZE 9100/40 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0790115",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP SELECT CO GOLD 1500/25 RX COPAY Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0790094",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP SELECT CO PLATINUM 400/10 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0790080",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP SELECT CO PLATINUM 0/10 RX COPAY Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0790075",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP SELECT CO BRONZE 6250/50/HSA Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0790069",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP SELECT CO BRONZE 7000/60 RX COPAY Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0790068",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP SELECT CO SILVER 3000/30/HSA Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0790060",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP SELECT CO SILVER 4000/50 RX COPAY Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0790059",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP SELECT CO SILVER 2800/45 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0790058",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP CO VIRTUAL COMPLETE BRONZE 9100/40 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0710094",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP CO BRONZE 7000/60 RX COPAY Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0710093",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP CO BRONZE 7000/100%/HSA Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0710092",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP CO BRONZE 6250/50/HSA Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0710091",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP CO SILVER 4000/50 RX COPAY Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0710090",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP CO SILVER 2800/45 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0710089",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP CO SILVER 3000/30/HSA Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0710087",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP CO GOLD 1750/30/HSA Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0710086",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP CO GOLD 1500/25 RX COPAY Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0710085",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP CO GOLD 500/25 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0710084",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP CO PLATINUM 400/10 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0710083",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP CO GOLD 0/20 RX COPAY Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0710082",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP CO PLATINUM 0/10 RX COPAY Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0710081",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP SELECT CO GOLD 1500/25 RX COPAY Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0710054",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP SELECT CO SILVER 2800/45 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0710027",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP SELECT CO GOLD 500/25 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0710026",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP SELECT CO SILVER 6000/30 X Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0610078",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP CO SILVER 6000/30 X Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0610077",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP CO CATASTROPHIC Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0610076",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP CO BRONZE 8500/50 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0610075",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP CO BRONZE 7000/50 RX COPAY Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0610074",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP CO BRONZE 6500/35%/HSA Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0610073",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP CO BRONZE 6500/50 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0610072",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP CO SILVER 5000/25 X Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0610071",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP CO SILVER 3700/20%/HSA X Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0610070",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP CO SILVER 4500/30 RX COPAY X Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0610069",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP CO SILVER 2200/25 X Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0610068",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP CO GOLD 2000/20 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0610067",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP CO GOLD 1500/20 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0610066",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP CO GOLD 0/20 RX COPAY Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0610065",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP SELECT CO GOLD 2000/20 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0610063",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP SELECT CO SILVER 5000/25 X Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0610058",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP SELECT CO BRONZE 8500/50 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0610052",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP SELECT CO BRONZE 7000/50 RX COPAY Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0610047",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP SELECT CO CATASTROPHIC Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0610036",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP SELECT CO BRONZE 6500/35%/HSA Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0610035",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP SELECT CO BRONZE 6500/50 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0610033",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP SELECT CO SILVER 3700/20%/HSA X Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0610032",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP SELECT CO SILVER 4500/30 RX COPAY X Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0610031",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP SELECT CO SILVER 2200/25 X Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0610030",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP SELECT CO GOLD 1500/20 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0610029",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP SELECT CO GOLD 0/20 RX COPAY Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0610028",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP CO CATASTROPHIC Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410076",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP CO BRONZE 8500/50 - AI/LTD Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410075",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP CO BRONZE 8500/50 - AI/0 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410075",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP CO BRONZE 8500/50 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410075",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP CO BRONZE 7000/50 RX COPAY - AI/LTD Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410074",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP CO BRONZE 7000/50 RX COPAY - AI/0 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410074",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP CO BRONZE 7000/50 RX COPAY Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410074",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP CO BRONZE 6500/35%/HSA Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410073",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP CO BRONZE 6500/35% - AI/LTD Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410073",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP CO BRONZE 6500/35% - AI/0 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410073",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP CO BRONZE 6500/50 - AI/LTD Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410072",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP CO BRONZE 6500/50 - AI/0 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410072",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP CO BRONZE 6500/50 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410072",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP CO SILVER 75/10/94% CSR Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410071",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP CO SILVER 5000/25 - AI/0 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410071",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP CO SILVER 5000/25 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410071",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP CO SILVER 3650/20/73% CSR Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410071",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP CO SILVER 3700/20%/HSA Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410070",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP CO SILVER 3700/20% - AI/LTD Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410070",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP CO SILVER 2500/20%/73% CSR Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410070",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP CO SILVER 200/5%/94% CSR Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410070",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP CO SILVER 50/5 RX COPAY 94% CSR Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410069",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP CO SILVER 4500/30 RX COPAY - AI/0 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410069",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP CO SILVER 4500/30 RX COPAY Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410069",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP CO SILVER 4000/30 RX COPAY 73% CSR Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410069",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP CO SILVER 50/5/94% CSR Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410068",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP CO SILVER 2200/25/73% CSR Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410068",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP CO SILVER 2200/25 - AI/0 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410068",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP CO SILVER 2200/25 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410068",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP CO GOLD 2000/20 - AI/LTD Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410067",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP CO GOLD 2000/20 - AI/0 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410067",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP CO GOLD 2000/20 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410067",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP CO GOLD 1500/20 - AI/LTD Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410066",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP CO GOLD 1500/20 - AI/0 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410066",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP CO GOLD 1500/20 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410066",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP CO GOLD 0/20 RX COPAY - AI/LTD Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410065",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP CO GOLD 0/20 RX COPAY - AI/0 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410065",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP CO GOLD 0/20 RX COPAY Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410065",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP SELECT CO GOLD 2000/20 - AI/LTD Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410063",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP SELECT CO GOLD 2000/20 - AI/0 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410063",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP SELECT CO GOLD 2000/20 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410063",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP SELECT CO SILVER 75/10/94% CSR Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410058",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP SELECT CO SILVER 5000/25 - AI/LTD Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410058",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP SELECT CO SILVER 5000/25 - AI/0 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410058",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP SELECT CO SILVER 5000/25 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410058",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP SELECT CO SILVER 3650/20/73% CSR Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410058",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP SELECT CO BRONZE 8500/50 - AI/LTD Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410052",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP SELECT CO BRONZE 8500/50 - AI/0 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410052",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP SELECT CO BRONZE 8500/50 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410052",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP SELECT CO BRONZE 7000/50 RX COPAY - AI/LTD Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410047",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP SELECT CO BRONZE 7000/50 RX COPAY - AI/0 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410047",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP SELECT CO BRONZE 7000/50 RX COPAY Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410047",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP SELECT CO CATASTROPHIC Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410036",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP SELECT CO BRONZE 6500/35%/HSA Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410035",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP SELECT CO BRONZE 6500/35% - AI/LTD Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410035",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP SELECT CO BRONZE 6500/50 - AI/0 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410033",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP SELECT CO BRONZE 6500/50 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410033",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP SELECT CO SILVER 3700/20%/HSA Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410032",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP SELECT CO SILVER 3700/20% - AI/LTD Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410032",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP SELECT CO SILVER 3700/20% - AI/0 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410032",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP SELECT CO SILVER 2500/20%/73% CSR Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410032",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP SELECT CO SILVER 200/5%/94% CSR Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410032",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP SELECT CO SILVER 50/5 RX COPAY 94% CSR Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410031",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP SELECT CO SILVER 4500/30 RX COPAY - AI/0 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410031",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP SELECT CO SILVER 4500/30 RX COPAY Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410031",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP SELECT CO SILVER 4000/30 RX COPAY 73% CSR Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410031",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP SELECT CO SILVER 50/5/94% CSR Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410030",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP SELECT CO SILVER 2200/25/73% CSR Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410030",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP SELECT CO SILVER 2200/25 - AI/LTD Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410030",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP SELECT CO SILVER 2200/25 - AI/0 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410030",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP SELECT CO SILVER 2200/25 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410030",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP SELECT CO GOLD 1500/20 - AI/LTD Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410029",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP SELECT CO GOLD 1500/20 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410029",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP SELECT CO GOLD 0/20 RX COPAY - AI/LTD Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410028",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP SELECT CO GOLD 0/20 RX COPAY - AI/0 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410028",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP SELECT CO GOLD 0/20 RX COPAY Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0410028",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP CO SILVER 3T POS 3000/45 RX COPAY Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0390003",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP CO GOLD 3T POS 1500/30 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0390002",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP CO PLATINUM 3T POS 0/10 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0390001",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP COLORADO OPTION BRONZE Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO1030006",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP SELECT CO BRONZE 7000/100%/HSA Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0790070",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP CO SILVER POS 3000/45 RX COPAY Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0940019",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP CO VIRTUAL COMPLETE SILVER 6800/50 RX COPAY Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0790180",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP CO VIRTUAL COMPLETE BRONZE 8700/40 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0790179",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP CO SILVER 2500/45 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0790170",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP SELECT CO SILVER 4400/30/HSA Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0790128",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP SELECT CO GOLD 0/20 RX COPAY Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0790045",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP CO SILVER 4400/30/HSA Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0710088",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP CO SILVER 4000/30/HSA Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0790169",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP CO GOLD 1500/30 RX COPAY Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0790164",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP CO GOLD 3000/10 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0790163",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP CO GOLD 500/30 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0790161",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP SELECT CO SILVER 5000/10 NEA Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0790156",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP CO VIRTUAL COMPLETE SILVER 6300/50 RX COPAY Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0710095",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP CO PLATINUM 400/20 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0790160",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP CO GOLD 0/30 RX COPAY Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0790159",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP CO PLATINUM 0/15 RX COPAY Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0790158",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP SELECT CO VIRTUAL COMPLETE BRONZE 8700/40 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0790115",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP SELECT CO GOLD 1500/30 RX COPAY Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0790094",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP SELECT CO PLATINUM 0/15 RX COPAY Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0790075",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP SELECT CO SILVER 2500/45 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0790058",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP SELECT CO GOLD 500/30 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0790050",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP SELECT CO GOLD 0/30 RX COPAY Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0790045",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP CO PLATINUM 3T POS 0/25 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0390001",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP CO GOLD 500/30 NEA Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0790162",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP COLORADO OPTION SILVER Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO1030005",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP SELECT CO GOLD 3000/10 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0790154",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP CO SILVER 2500/45 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0710089",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP CO GOLD 1500/30 RX COPAY Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0710085",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP SELECT CO GOLD 500/25 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0790050",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP SELECT CO GOLD 1750/30/HSA Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0790123",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP CO PLATINUM 400/20 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0710083",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP SELECT CO BRONZE 7000/100%/HSA Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0710032",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP SELECT CO SILVER 2500/45 Kaiser Foundation Health Plan of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "21032CO0710027",
+                    "plan_market_type": "group"
+                }
+            ],
+            "in_network_files": [
+                {
+                    "location": "https://healthy.kaiserpermanente.org/pricing/innetwork/co/2023-11-01_KFHP_CO-COMMERCIAL_in-network-rates.zip",
+                    "description": "in-network file"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1630 @@
+{
+    "reporting_entity_name": "Kaiser Foundation Health Plan of the Northwest",
+    "reporting_entity_type": "Group Health Plan",
+    "reporting_structure": [
+        {
+            "reporting_plans": [
+                {
+                    "plan_name": "KP OR PLATINUM 250/20 3T POS W/MASSAGE Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0440025",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR SILVER 3000/45 3T POS W/VX Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0440024",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR GOLD 1000/20 3T POS W/VX Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0440023",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR GOLD 500/35 3T POS W/VX Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0440022",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR PLATINUM 250/20 3T POS W/VX Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0440021",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR GOLD 1000/35 3T POS- OOA Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0440020",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR PLATINUM 250/20 3T POS - OOA Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0440019",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR SILVER 3000/45 3T POS W/VX & MASSAGE Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0440018",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR GOLD 1000/20 3T POS W/VX & MASSAGE Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0440017",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR PLATINUM 250/20 3T POS W/VX & MASSAGE Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0440016",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR SILVER 3000/45 3T POS Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0440015",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR GOLD 1000/20 3T POS Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0440014",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR PLATINUM 250/20 3T POS Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0440013",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR GOLD 500/35 3T POS W/VX & MASSAGE Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0440002",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR GOLD 500/35 3T POS Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0440001",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR SILVER 6000/50 W/VX & MASSAGE Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0430061",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR SILVER 6000/50 W/VX Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0430060",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR SILVER 6000/50 W/MASSAGE Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0430059",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR SILVER 6000/50 Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0430058",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR GOLD 2000/35 W/VX & MASSAGE Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0430057",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR GOLD 2000/35 W/VX Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0430056",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR GOLD 2000/35 W/MASSAGE Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0430055",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR GOLD 2000/35 Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0430054",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR PLATINUM 500/20 W/MASSAGE Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0430053",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR PLATINUM 500/20 W/VX Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0430052",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR PLATINUM 500/20 W/VX & MASSAGE Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0430051",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR PLATINUM 500/20 Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0430050",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR SILVER 5000/50 W/VX & MASSAGE Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0430049",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR SILVER 5000/50 W/MASSAGE Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0430048",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR SILVER 5000/50 W/VX Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0430047",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR SILVER 5000/50 Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0430046",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR GOLD 1500/35 W/MASSAGE Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0430044",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR GOLD 1500/35 W/VX Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0430043",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR GOLD 1500/35 W/VX & MASSAGE Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0430042",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR GOLD 1500/35 Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0430041",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR SILVER 3200/25% HSA W/MASSAGE Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0430040",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR SILVER 3200/25% HSA W/VX Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0430039",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR BRONZE 7000/50 W/VX Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0430037",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR GOLD 1000/20 W/MASSAGE Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0430034",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR PLATINUM 250/20 W/MASSAGE Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0430032",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR GOLD 1000/20 W/VX Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0430031",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR PLATINUM 250/20 W/VX Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0430029",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR GOLD 0/30 W/MASSAGE Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0430027",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR PLATINUM 0/20 W/MASSAGE Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0430026",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR GOLD 0/30 W/VX Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0430024",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR GOLD 1000/20 W/VX & MASSAGE Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0430023",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR GOLD 1000/20 Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0430022",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR SILVER 3200/25% HSA W/VX & MASSAGE Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0430021",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR SILVER 3200/25% HSA Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0430020",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OREGON STANDARD BRONZE PLAN Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0430018",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR BRONZE 7000/50 W/VX & MASSAGE Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0430017",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR BRONZE 7000/50 Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0430016",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR PLATINUM 0/20 W/VX Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0430015",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OREGON STANDARD SILVER PLAN Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0430014",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OREGON STANDARD GOLD PLAN Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0430011",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR PLATINUM 250/20 W/VX & MASSAGE Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0430008",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR PLATINUM 250/20 Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0430007",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR GOLD 0/30 W/VX & MASSAGE Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0430004",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR GOLD 0/30 Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0430003",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR PLATINUM 0/20 W/VX & MASSAGE Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0430002",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR PLATINUM 0/20 Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0430001",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR SILVER 750/30 X Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0420023",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP OR SILVER 750/30 94% CSR Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0420022",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP OR SILVER 750/30 87% CSR Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0420022",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP OR SILVER 750/30 73% CSR Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0420022",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP OR SILVER 750/30 Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0420022",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP OR SILVER 4000/40 X Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0420021",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP OR SILVER 4500/50 Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0420020",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP OR SILVER 3500/40 X Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0420019",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP OR BRONZE 8900/75 - AI/LTD Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0420018",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP OR BRONZE 8900/75 - AI/0 Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0420018",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP OR BRONZE 8900/75 Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0420018",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP OR BRONZE 6900/0% HSA Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0420016",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP OR BRONZE 6900/0% - AI/LTD Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0420016",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP OR BRONZE 6900/0% - AI/0 Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0420016",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP OR BRONZE 5500/50 - AI/LTD Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0420014",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP OR BRONZE 5500/50 - AI/0 Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0420014",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP OR BRONZE 5500/50 Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0420014",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP OR SILVER 3000/35% HSA Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0420013",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP OR SILVER 4000/40 94% CSR Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0420012",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP OR SILVER 4000/40 87% CSR Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0420012",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP OR SILVER 4000/40 73% CSR Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0420012",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP OR SILVER 4000/40 - AI/LTD Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0420012",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP OR SILVER 4000/40 - AI/0 Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0420012",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP OR SILVER 4000/40 Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0420012",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP OR SILVER 3500/40 94% CSR Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0420011",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP OR SILVER 3500/40 87% CSR Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0420011",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP OR SILVER 3500/40 73% CSR Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0420011",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP OR SILVER 3500/40 - AI/LTD Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0420011",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP OR SILVER 3500/40 - AI/0 Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0420011",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP OR SILVER 3500/40 Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0420011",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP OR GOLD 2000/20 - AI/LTD Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0420005",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP OR GOLD 2000/20 - AI/0 Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0420005",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP OR GOLD 2000/20 Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0420005",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP OREGON STANDARD BRONZE PLAN Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0420004",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP OREGON STANDARD SILVER PLAN Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0420003",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP OREGON STANDARD GOLD PLAN Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0420002",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP OR GOLD 0/20 - AI/LTD Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0420001",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP OR GOLD 0/20 - AI/0 Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0420001",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP OR GOLD 0/20 Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0420001",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "Kaiser Foundation Health Plan of the Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP WA SILVER 3000/45 KP PLUS W/VX Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1980003",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP CASCADE BRONZE Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1940003",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP CASCADE SILVER Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1940002",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP CASCADE GOLD Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1940001",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP WA SILVER 3000/45 PPO PLUS W/VX Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1930003",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP WA GOLD 1000/35 PPO PLUS W/VX Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1930002",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP WA PLATINUM 250/20 PPO PLUS W/VX Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1930001",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP WA SILVER 3000/45 PPO PLUS Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1920003",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP WA GOLD 1000/35 PPO PLUS Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1920002",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP WA SILVER 3000/45 3T POS W/VX Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1820004",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP WA GOLD 1000/20 3T POS W/VX Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1820003",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP WA PLATINUM 250/20 3T POS W/VX Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1820002",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP WA GOLD 500/35 3T POS W/VX Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1820001",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP WA SILVER 3000/45 3T POS Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1810004",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP WA GOLD 1000/20 3T POS Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1810003",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP WA PLATINUM 250/20 3T POS Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1810002",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP WA GOLD 500/35 3T POS Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1810001",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP WA SILVER 6000/50 Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1800019",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP WA GOLD 2000/35 Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1800018",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP WA PLATINUM 500/20 Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1800017",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP WA SILVER 5000/50 Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1800016",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP WA GOLD 1500/35 Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1800015",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP WA SILVER 3200/25% HSA Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1800013",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP WA GOLD 1000/20 Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1800012",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP WA PLATINUM 250/20 Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1800011",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP WA BRONZE 6900/0% HSA Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1800009",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP WA BRONZE 9000/40 Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1800008",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP WA BRONZE 7000/50 Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1800007",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP WA PLATINUM 0/20 Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1800006",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP WA SILVER 4000/45 Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1800005",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP WA SILVER 3000/45 Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1800004",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP WA GOLD 0/30 Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1800001",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP WA BRONZE 6900/0% HSA WITH PEDIATRIC DENTAL Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1790005",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP WA SILVER 3000/35% HSA WITH PEDIATRIC DENTAL Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1790004",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP WA BRONZE 8900/75 WITH PEDIATRIC DENTAL Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1790003",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP WA BRONZE 6000/50 WITH PEDIATRIC DENTAL Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1790002",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP WA SILVER 4500/50 WITH PEDIATRIC DENTAL Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1790001",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP WA BRONZE 6900/0% HSA Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1780004",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP WA BRONZE 6900/0% Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1780004",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP WA BRONZE 8900/75 Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1780003",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP WA GOLD 0/20 WITH PEDIATRIC DENTAL Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1770003",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP WA SILVER 750/30 WITH PEDIATRIC DENTAL Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1770002",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP WA GOLD 2000/20 WITH PEDIATRIC DENTAL Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1770001",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP WA GOLD 0/20 Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1760003",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP WA SILVER 750/30 Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1760002",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP WA GOLD 2000/20 Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1760001",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP WA SILVER 6000/50 W/VX Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1140019",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP WA GOLD 2000/35 W/VX Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1140018",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP WA PLATINUM 500/20 W/VX Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1140017",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP WA SILVER 5000/50 W/VX Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1140016",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP WA GOLD 1500/35 W/VX Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1140015",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR SILVER 3000/45 KP PLUS W/VX & MASSAGE Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0640012",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR GOLD 1000/20 KP PLUS W/VX & MASSAGE Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0640008",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR GOLD 1000/20 KP PLUS W/MASSAGE Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0640007",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR GOLD 1000/20 KP PLUS Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0640005",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR PLATINUM 0/20 KP PLUS W/VX & MASSAGE Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0640004",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR SILVER 3000/45 W/VX & MASSAGE Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0570018",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP WA GOLD 0/30 W/VX Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1140013",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP WA SILVER 3200/25% HSA W/VX Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1140011",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP WA GOLD 1000/20 W/VX Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1140010",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR BRONZE 6900/0% HSA W/MASSAGE Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0570016",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR BRONZE 6900/0% HSA W/VX Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0570015",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR BRONZE 6900/0% HSA W/VX & MASSAGE Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0570014",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR BRONZE 6900/0% HSA Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0570013",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP WA BRONZE 6900/0% HSA W/VX Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1140008",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP WA BRONZE 9000/40 W/VX Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1140007",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP WA BRONZE 7000/50 W/VX Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1140006",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP WA PLATINUM 250/20 W/VX Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1140005",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP WA PLATINUM 0/20 W/VX Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1140004",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR SILVER 3000/45 Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0570011",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP WA SILVER 4000/45 W/VX Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1140003",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP WA SILVER 3000/45 W/VX Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1140002",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR BRONZE 9000/40 W/MASSAGE Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0570010",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR BRONZE 9000/40 W/VX Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0570009",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "Kaiser Foundation Health Plan of the Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR BRONZE 9000/40 W/VX & MASSAGE Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0570008",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR BRONZE 9000/40 Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0570007",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR SILVER 4000/45 W/MASSAGE Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0570006",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR SILVER 4000/45 W/VX Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0570005",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR SILVER 4000/45 W/VX & MASSAGE Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0570004",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR SILVER 4000/45 Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0570003",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR SILVER 3000/45 W/MASSAGE Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0570002",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR SILVER 3000/45 W/VX Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0570001",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR SILVER 4000/45 3T POS - OOA Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0440055",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR BRONZE 7000/50 3T POS W/VX Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0440052",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR BRONZE 7000/50 3T POS Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0440051",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR SILVER 3000/45 3T POS W/MASSAGE - OOA Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0440046",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR SILVER 3000/45 3T POS W/VX - OOA Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0440044",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR GOLD 500/35 3T POS W/VX - OOA Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0440043",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR SILVER 3000/45 3T POS W/VX & MASSAGE - OOA Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0440042",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR GOLD 500/35 3T POS W/VX & MASSAGE - OOA Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0440041",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR SILVER 3000/45 3T POS - OOA Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0440040",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR GOLD 500/35 3T POS - OOA Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0440039",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR GOLD 1000/35 3T POS W/MASSAGE - OOA Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0440037",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR PLATINUM 250/20 3T POS W/MASSAGE - OOA Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0440035",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR GOLD 1000/35 3T POS W/VX & MASSAGE - OOA Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0440030",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR PLATINUM 250/20 3T POS W/VX & MASSAGE - OOA Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0440029",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR GOLD 1000/20 3T POS W/MASSAGE Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0440027",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR GOLD 500/35 3T POS W/MASSAGE Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0440026",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR SILVER 2500/45 W/VX & MASSAGE Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0570018",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR SILVER 2500/45 Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0570011",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR BRONZE 8550/40 W/MASSAGE Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0570010",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR BRONZE 8550/40 W/VX & MASSAGE Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0570008",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR BRONZE 8550/40 Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0570007",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR SILVER 3500/40 W/MASSAGE Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0570006",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR SILVER 3500/40 W/VX Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0570005",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR SILVER 3500/40 W/VX & MASSAGE Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0570004",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR SILVER 3500/40 Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0570003",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR SILVER 2500/45 W/MASSAGE Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0570002",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR SILVER 2500/45 W/VX Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0570001",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR GOLD 500/35 3T POS W/MASSAGE - OOA Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0440045",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR SILVER 2500/45 3T POS W/VX - OOA Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0440044",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR SILVER 2500/45 3T POS W/VX & MASSAGE - OOA Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0440042",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR SILVER 2500/45 3T POS - OOA Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0440040",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR SILVER 2500/45 3T POS W/MASSAGE Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0440028",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR SILVER 2500/45 3T POS W/VX & MASSAGE Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0440018",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR BRONZE 8550/40 W/VX Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0570009",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR SILVER 5500/50 W/VX Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0430060",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR SILVER 5500/50 W/MASSAGE Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0430059",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR SILVER 5500/50 Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0430058",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR GOLD 2000/40 W/VX & MASSAGE Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0430057",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR GOLD 2000/40 Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0430054",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR PLATINUM 250/20 3T POS W/VX - OOA Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0440031",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR SILVER 2500/45 3T POS W/VX Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0440024",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR SILVER 4500/45 W/VX & MASSAGE Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0430049",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR SILVER 2500/45 3T POS Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0440015",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR SILVER 4500/45 W/MASSAGE Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0430048",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR SILVER 5500/50 W/VX & MASSAGE Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0430061",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR SILVER 4500/45 W/VX Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0430047",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR SILVER 4500/45 Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0430046",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR GOLD 2000/40 W/MASSAGE Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0430055",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR SILVER 2800/25% HSA W/MASSAGE Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0430040",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR SILVER 2800/25% HSA W/VX Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0430039",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR BRONZE 7000/50 W/MASSAGE Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0430038",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR SILVER 2800/25% HSA Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0430020",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR SILVER 3000/45 KP PLUS Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0640009",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR PLATINUM 0/20 KP PLUS W/MASSAGE Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0640003",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR PLATINUM 0/20 KP PLUS Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0640001",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR SILVER 2800/25% HSA W/VX & MASSAGE Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0430021",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP WA SILVER 2500/45 PPO PLUS W/VX Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1930003",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP WA SILVER 2500/45 PPO PLUS Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1920003",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP WA SILVER 2500/45 3T POS W/VX Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1820004",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP WA SILVER 5500/50 Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1800019",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP WA SILVER 4500/45 Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1800016",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP WA SILVER 2800/25% HSA Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1800013",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP WA BRONZE 8550/40 Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1800008",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP WA SILVER 3500/40 Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1800005",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP WA SILVER 2500/45 Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1800004",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP WA SILVER 5500/50 W/VX Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1140019",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP WA GOLD 2000/40 W/VX Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1140018",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP WA SILVER 4500/45 W/VX Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1140016",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP WA BRONZE 6900/0% HSA W/ VX Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1140008",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP WA SILVER 3500/40 W/VX Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1140003",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP WA SILVER 2500/45 W/VX Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1140002",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR SILVER 2500/45 3T POS W/MASSAGE - OOA Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0440046",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR GOLD 1000/35 3T POS W/VX  - OOA Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0440033",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP WA GOLD 2000/40 Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1800018",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP WA SILVER 2800/25% HSA W/VX Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1140011",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR SILVER 3000/45 KP PLUS W/MASSAGE Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0640011",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR SILVER 4000/45 3T POS W/VX & MASSAGE - OOA Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0440058",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR SILVER 4000/45 3T POS W/MASSAGE - OOA Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0440057",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR GOLD 2000/40 W/VX Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0430056",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP OR SILVER 3000/45 3T POS W/MASSAGE Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "71287OR0440028",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP WA SILVER 3000/45 KP PLUS Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1970003",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP WA PLATINUM 250/20 PPO PLUS Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1920001",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP WA PLATINUM 0/20 KP PLUS Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1970001",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP WA PLATINUM 0/20 KP PLUS W/VX Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1980001",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP WA GOLD 1000/20 KP PLUS Kaiser Foundation Health Plan of Northwest",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "23371WA1970002",
+                    "plan_market_type": "group"
+                }
+            ],
+            "in_network_files": [
+                {
+                    "location": "https://healthy.kaiserpermanente.org/pricing/innetwork/nw/2023-11-01_KFHP_NW-COMMERCIAL_in-network-rates.zip",
+                    "description": "in-network file"
+                }
+            ]
+        }
+    ]
+}

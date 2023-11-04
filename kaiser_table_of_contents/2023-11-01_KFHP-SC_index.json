@@ -1,0 +1,484 @@
+{
+    "reporting_entity_name": "Kaiser Foundation Health Plan, Inc., on behalf of the Southern California Region",
+    "reporting_entity_type": "Group Health Plan",
+    "reporting_structure": [
+        {
+            "reporting_plans": [
+                {
+                    "plan_name": "SILVER 70 HMO 1650/55 + CHILD DENTAL ALT Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0410017",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "SILVER 70 HMO 2500/55 + CHILD DENTAL Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0410016",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "SILVER 70 HMO 2250/55 + CHILD DENTAL Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0410016",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "GOLD 80 HMO 250/35 + CHILD DENTAL Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0410014",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "GOLD 80 HDHP HMO 1600/15% + CHILD DENTAL ALT Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0410059",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "SILVER 70 HMO 2800/65 + CHILD DENTAL ALT Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0410057",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "BRONZE 60 HMO 5400/60 + CHILD DENTAL ALT Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0410055",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "GOLD 80 HMO 1000/40 + CHILD DENTAL ALT Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0410053",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "GOLD 80 HMO 0/30 + CHILD DENTAL ALT Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0410051",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "SILVER 70 HMO 2300/65 + CHILD DENTAL ALT Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0410049",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "SILVER 70 HDHP HMO 2700/25% + CHILD DENTAL Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0410046",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "GOLD 80 HMO 250/35 + CHILD DENTAL INF Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0410039",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "PLATINUM 90 HMO 0/10 + CHILD DENTAL ALT INF Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0410037",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "PLATINUM 90 HMO 0/10 + CHILD DENTAL ALT Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0410026",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "SILVER 70 HMO 2500/55 + CHILD DENTAL W/O CONTRACEPTIVES Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0410023",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "GOLD 80 HRA HMO 2250/35 + CHILD DENTAL Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0410022",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "BRONZE 60 HDHP HMO 7000/0% + CHILD DENTAL Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0410021",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "BRONZE 60 HMO 6300/65 + CHILD DENTAL Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0410019",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "PLATINUM 90 HMO 0/20 + CHILD DENTAL Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0410012",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "SILVER 70 HMO 1900/65 + CHILD DENTAL ALT Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0410017",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "BRONZE 60 HMO 5400/60 + CHILD DENTAL ALT Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0400067",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "BRONZE 60 HDHP HMO 7000/0% + CHILD DENTAL Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0400065",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "BRONZE 60 HMO 6300/65 + CHILD DENTAL Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0400063",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "SILVER 70 HDHP HMO 2500/20% + CHILD DENTAL Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0400061",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "SILVER 70 HMO 2250/55 + CHILD DENTAL Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0400059",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "SILVER 70 HMO 2600/55 + CHILD DENTAL ALT Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0400057",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "SILVER 70 HMO 2100/55 + CHILD DENTAL ALT Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0400055",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "SILVER 70 HMO 1650/55 + CHILD DENTAL ALT INF Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0400054",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "SILVER 70 HMO 1650/55 + CHILD DENTAL ALT Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0400053",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "GOLD 80 HMO 1000/40 + CHILD DENTAL ALT Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0400051",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "GOLD 80 HMO 250/35 + CHILD DENTAL INF Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0400050",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "GOLD 80 HMO 250/35 + CHILD DENTAL Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0400049",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "GOLD 80 HMO 0/30 + CHILD DENTAL ALT Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0400047",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "PLATINUM 90 HMO 0/20 + CHILD DENTAL INF Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0400046",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "PLATINUM 90 HMO 0/20 + CHILD DENTAL Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0400045",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "PLATINUM 90 HMO 0/10 + CHILD DENTAL ALT Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0400043",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "GOLD 80 HDHP HMO 1600/15% + CHILD DENTAL ALT Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0400041",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "Kaiser Foundation Health Plan, Inc., on behalf of the Southern California Region",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "SILVER 70 HMO 2600/55 + CHILD DENTAL ALT Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0410057",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "SILVER 70 HMO 2100/55 + CHILD DENTAL ALT Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0410049",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "BRONZE 60 HDHP HMO 7000/0% + CHILD DENTAL INF Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0410045",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "SILVER 70 HDHP HMO 2500/20% + CHILD DENTAL Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0410046",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "SILVER 70 HDHP HMO 2700/25% + CHILD DENTAL Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0400061",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "SILVER 70 HMO 2500/55 + CHILD DENTAL Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0400059",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "SILVER 70 HMO 2800/65 + CHILD DENTAL ALT Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0400057",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "SILVER 70 HMO 2300/65 + CHILD DENTAL ALT Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0400055",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "SILVER 70 HMO 1900/65 + CHILD DENTAL ALT Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0400053",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "PLATINUM 90 HMO 0/10 + CHILD DENTAL ALT INF Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0400044",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "BRONZE 60 HMO 5400/60 + CHILD DENTAL ALT INF Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0400068",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "BRONZE 60 HDHP HMO 7000/0% + CHILD DENTAL INF Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0400066",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "BRONZE 60 HMO 6300/65 + CHILD DENTAL INF Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0400064",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "SILVER 70 HDHP HMO 2700/25% + CHILD DENTAL INF Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0400062",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "SILVER 70 HMO 2500/55 + CHILD DENTAL INF Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0400060",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "SILVER 70 HMO 2800/65 + CHILD DENTAL ALT INF Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0400058",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "SILVER 70 HMO 2300/65 + CHILD DENTAL ALT INF Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0400056",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "SILVER 70 HMO 1900/65 + CHILD DENTAL ALT INF Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0400054",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "GOLD 80 HMO 0/30 + CHILD DENTAL ALT INF Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0400048",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "GOLD 80 HDHP HMO 1600/15% + CHILD DENTAL ALT INF Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0400042",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "BRONZE 60 HMO 8200/0% Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0390023",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "GOLD 80 HMO COINSURANCE Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0390021",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "MINIMUM COVERAGE HMO Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0390020",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "BRONZE 60 HDHP HMO Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0390019",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "BRONZE 60 HMO Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0390017",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "SILVER 70 HDHP HMO 3600/20% Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0390016",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "SILVER 70 HMO 2850/50 Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0390015",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "SILVER 70 HMO OFF EXCHANGE Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0390014",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "GOLD 80 HMO Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0390012",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "PLATINUM 90 HMO Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0390011",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "GOLD 80 HMO COINSURANCE Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0380013",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "MINIMUM COVERAGE HMO Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0380006",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "BRONZE 60 HDHP HMO Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0380005",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "BRONZE 60 HMO Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0380004",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "SILVER 70 HMO Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0380003",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "GOLD 80 HMO Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0380002",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "PLATINUM 90 HMO Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0380001",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "PLATINUM 90 HMO 0/20 + CHILD DENTAL INF Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0410038",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "SILVER 70 HMO 2300/65 + CHILD DENTAL ALT INF Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0410050",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "GOLD 80 HMO 1000/40 + CHILD DENTAL ALT INF Kaiser Foundation Health Plan of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "40513CA0400052",
+                    "plan_market_type": "group"
+                }
+            ],
+            "in_network_files": [
+                {
+                    "location": "https://healthy.kaiserpermanente.org/pricing/innetwork/sc/2023-11-01_KFHP_SC-COMMERCIAL_in-network-rates.zip",
+                    "description": "in-network file"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "reporting_entity_name": "Kaiser Permanente Insurance Company",
+    "reporting_entity_type": "Health Insurance Issuer",
+    "reporting_structure": [
+        {
+            "reporting_plans": [
+                {
+                    "plan_name": "RETA TRUST",
+                    "plan_id_type": "EIN",
+                    "plan_id": "942329720",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP NATIONAL BUSINESS UNITS",
+                    "plan_id_type": "EIN",
+                    "plan_id": "941340523",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP NATIONAL BUSINESS UNITS",
+                    "plan_id_type": "EIN",
+                    "plan_id": "941105628",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "DENVER PUBLIC SCHOOLS",
+                    "plan_id_type": "EIN",
+                    "plan_id": "846001099",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "EPISCOPAL CHURCH MEDICAL TRUST",
+                    "plan_id_type": "EIN",
+                    "plan_id": "753089458",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "ECMT",
+                    "plan_id_type": "EIN",
+                    "plan_id": "753089458",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "ACCENTURE",
+                    "plan_id_type": "EIN",
+                    "plan_id": "720542904",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "ACCENTURE LLP",
+                    "plan_id_type": "EIN",
+                    "plan_id": "720542904",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "CONCORDIA PLAN SERVICES",
+                    "plan_id_type": "EIN",
+                    "plan_id": "710986725",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "CONCORDIA",
+                    "plan_id_type": "EIN",
+                    "plan_id": "710986725",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "TARGET CORPORATION",
+                    "plan_id_type": "EIN",
+                    "plan_id": "410215170",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "TARGET",
+                    "plan_id_type": "EIN",
+                    "plan_id": "410215170",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "UNIVERSITY OF COLORADO",
+                    "plan_id_type": "EIN",
+                    "plan_id": "276690619",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "SISTERS OF CHARITY LEAVENWORTH",
+                    "plan_id_type": "EIN",
+                    "plan_id": "237379161",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "SCL HEALTH",
+                    "plan_id_type": "EIN",
+                    "plan_id": "237379161",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "IKEA",
+                    "plan_id_type": "EIN",
+                    "plan_id": "233005722",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "IKEA NORTH AMERICA SVCS LLC",
+                    "plan_id_type": "EIN",
+                    "plan_id": "233005722",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "GENERAL DYNAMICS CORPORATION",
+                    "plan_id_type": "EIN",
+                    "plan_id": "131673581",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "GENERAL DYNAMICS",
+                    "plan_id_type": "EIN",
+                    "plan_id": "131673581",
+                    "plan_market_type": "group"
+                }
+            ],
+            "in_network_files": [
+                {
+                    "location": "https://healthy.kaiserpermanente.org/pricing/innetwork/co/2023-11-01_SELF-FUNDED_CO-COMMERCIAL_in-network-rates.zip",
+                    "description": "in-network file"
+                }
+            ]
+        }
+    ]
+}

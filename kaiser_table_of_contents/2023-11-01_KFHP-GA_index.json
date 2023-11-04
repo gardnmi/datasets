@@ -1,0 +1,1156 @@
+{
+    "reporting_entity_name": "Kaiser Foundation Health Plan of Georgia",
+    "reporting_entity_type": "Group Health Plan",
+    "reporting_structure": [
+        {
+            "reporting_plans": [
+                {
+                    "plan_name": "KP SILVER 3700/35/50/S10 KP PLUS Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0160006",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP GOLD 2500/0/30/S10 KP PLUS Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0160004",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP SILVER VIRTUAL COMPLETE 5000/30/40/S10 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0080034",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP GOLD VIRTUAL COMPLETE 3000/20/40/S10 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0080033",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP SILVER 6000/30/50/S10 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0080032",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP GOLD 3750/20/30/S10 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0080031",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP GOLD 0/0/40/S10 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0080030",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP SILVER 5500/0/50/S10 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0080029",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP GOLD 4500/0/30/S10 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0080028",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP GOLD 3500/0/30/S10 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0080027",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP PLATINUM 500/20/20/S10 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0080026",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP SILVER HDHP 5000/20/S10 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0080025",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP GOLD 2250/20/30/S10 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0080018",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP SILVER 4700/35/50/S10 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0080017",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP BRONZE HDHP 6850/0/S10 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0080016",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP SILVER 3700/35/50/S10 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0080013",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP GOLD 2500/0/30/S10 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0080012",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP BRONZE VIRTUAL COMPLETE 6300/20/60/S10 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0080006",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP SILVER 2700/35/50/S10 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0080005",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP GOLD 1000/20/30/S10 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0080003",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP GOLD 0/0/30/S10 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0080002",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP PLATINUM 0/0/20/S10 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0080001",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP BRONZE HDHP 6850/0/S10 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0060016",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP BRONZE VIRTUAL COMPLETE 6300/20/60/S10 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0060006",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP SILVER 2700/35/50/S10 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0060005",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP GOLD 1000/20/30/S10 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0060003",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP GOLD 0/0/30/S10 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0060002",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP BRONZE DUAL CHOICE PPO 6500/20/60/S10 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "82302GA0030013",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP SILVER DUAL CHOICE PPO 3850/30/50/S10 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "82302GA0030008",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP GOLD DUAL CHOICE PPO 2500/10/30/S10 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "82302GA0030005",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP GOLD DUAL CHOICE PPO 1000/20/30/S10 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "82302GA0030004",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP GOLD 0/0/30/S10 KP PLUS Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0160002",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP PLATINUM 0/0/20/S10 KP PLUS Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0160001",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP SILVER HDHP 3200/20/S10 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0080007",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP SILVER 4700/35/50/S10 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0060017",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP PLATINUM DUAL CHOICE PPO 0/0/20/S10 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "82302GA0030001",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP SILVER DUAL CHOICE PPO 3850/30/50/S10 OOA Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "82302GA0020024",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP GOLD DUAL CHOICE PPO 2500/10/30/S10 OOA Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "82302GA0020021",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP PLATINUM DUAL CHOICE PPO 0/0/20/S10 OOA Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "82302GA0020017",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP BRONZE DUAL CHOICE PPO 6500/20/60/S10 OOA Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "82302GA0020029",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP SILVER VIRTUAL COMPLETE 5000/30/40/S9 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0080034",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP GOLD 4500/0/30/S9 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0080028",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP GOLD 3500/0/30/S9 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0080027",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP PLATINUM 500/20/20/S9 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0080026",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP SILVER HDHP 5000/20/S9 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0080025",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP GOLD 2250/20/30/S9 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0080018",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP SILVER 3500/30/50/S9 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0080013",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP GOLD 2500/0/30/S9 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0080012",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP SILVER HDHP 3000/20/S9 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0080007",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP BRONZE VIRTUAL COMPLETE 6300/20/60/S9 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0080006",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP GOLD 1000/20/30/S9 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0080003",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP GOLD 0/0/30/S9 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0080002",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP PLATINUM 0/0/20/S9 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0080001",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP SILVER HDHP 5000/20/S9 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0060025",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP BRONZE VIRTUAL COMPLETE 6300/20/60/S9 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0060006",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP SILVER 2500/30/50/S9 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0060005",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP SILVER DUAL CHOICE PPO 3750/30/50/S9 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "82302GA0030008",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP GOLD DUAL CHOICE PPO 1000/20/30/S9 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "82302GA0030004",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP PLATINUM DUAL CHOICE PPO 0/0/20/S9 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "82302GA0030001",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP GOLD DUAL CHOICE PPO 1000/20/30/S9 OOA Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "82302GA0020020",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP SILVER DUAL CHOICE PPO HDHP 3500/20/S10 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "82302GA0030010",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP SILVER DUAL CHOICE PPO 4850/30/50/S10 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "82302GA0030009",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP SILVER DUAL CHOICE PPO HDHP 3500/20/S10 OOA Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "82302GA0020026",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP SILVER 6000/30/50/S9 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0080032",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP GOLD 3750/20/30/S9 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0080031",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP GOLD 0/0/40/S9 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0080030",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP SILVER 5500/0/50/S9 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0080029",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP SILVER 4500/30/50/S9 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0080017",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP BRONZE HDHP 6850/0/S9 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0080016",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP SILVER 2500/30/50/S9 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0080005",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP SILVER VIRTUAL COMPLETE 5000/30/40/S9 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0060034",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP GOLD VIRTUAL COMPLETE 3000/20/40/S9 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0060033",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP GOLD 2250/20/30/S9 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0060018",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP SILVER DUAL CHOICE PPO 4750/30/50/S9 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "82302GA0030009",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP GOLD DUAL CHOICE PPO 2500/10/30/S9 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "82302GA0030005",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP SILVER DUAL CHOICE PPO 3750/30/50/S9 OOA Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "82302GA0020024",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP SILVER 2700/35/50/S10 KP PLUS Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0160005",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP GA SIGNATURE STANDARD BRONZE 7500/50 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0150006",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA STANDARD BRONZE 7500/50 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0150005",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SIGNATURE STANDARD SILVER 5800/40 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0150004",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA STANDARD SILVER 5800/40 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0150003",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SIGNATURE STANDARD GOLD 2000/30 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0150002",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA STANDARD GOLD 2000/30 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0150001",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SIGNATURE STANDARD BRONZE 7500/50 - AI/LTD Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0130006",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SIGNATURE STANDARD BRONZE 7500/50 - AI/0 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0130006",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SIGNATURE STANDARD BRONZE 7500/50 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0130006",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA STANDARD BRONZE 7500/50 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0130005",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SIGNATURE STANDARD SILVER 800/20/87% CSR Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0130004",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SIGNATURE STANDARD SILVER 5800/40 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0130004",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SIGNATURE STANDARD SILVER 5700/30/73% CSR Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0130004",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SIGNATURE STANDARD SILVER 0/0/94% CSR Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0130004",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA STANDARD SILVER 800/20/87% CSR Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0130003",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA STANDARD SILVER 5800/40 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0130003",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA STANDARD SILVER 5700/30/73% CSR Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0130003",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA STANDARD SILVER 0/0/94% CSR Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0130003",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SIGNATURE STANDARD GOLD 2000/30 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0130002",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA STANDARD GOLD 2000/30 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0130001",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SIGNATURE SILVER VIRTUAL COMPLETE 5000/50 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0070033",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SILVER VIRTUAL COMPLETE 5000/50 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0070032",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SIGNATURE SILVER VIRTUAL COMPLETE 4800/40 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0070031",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SILVER VIRTUAL COMPLETE 4800/40 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0070030",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SIGNATURE GOLD 1800/25 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0070027",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA GOLD 1800/25 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0070026",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SIGNATURE SILVER 4500/35 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0070025",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SILVER 4500/35 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0070024",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SIGNATURE GOLD 1500/20 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0070022",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SIGNATURE CATASTROPHIC 9100/0 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0070021",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SIGNATURE BRONZE 6500/40%/HSA Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0070020",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SIGNATURE BRONZE VIRTUAL COMPLETE 5500/60 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0070019",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SIGNATURE SILVER 3500/20%/HSA Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0070018",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SIGNATURE SILVER 3400/30 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0070017",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SIGNATURE GOLD 500/20 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0070016",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA GOLD 1500/20 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0070012",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA CATASTROPHIC 9100/0 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0070010",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA BRONZE 6500/40%/HSA Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0070009",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA BRONZE VIRTUAL COMPLETE 5500/60 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0070007",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SILVER 3500/20%/HSA Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0070006",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SILVER 3400/30 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0070005",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA GOLD 500/20 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0070002",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP SILVER 6000/30/50/S10 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0060032",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP GOLD 4500/0/30/S10 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0060028",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP GOLD 3500/0/30/S10 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0060027",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP SILVER HDHP 5000/20/S10 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0060025",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP GOLD 2250/20/30/S10 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0060018",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP SILVER 3700/35/50/S10 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0060013",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP GOLD 2500/0/30/S10 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0060012",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP SILVER HDHP 3200/20/S10 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0060007",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP GA SIGNATURE SILVER VIRTUAL COMPLETE 500/30/87% CSR Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0050031",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SIGNATURE SILVER VIRTUAL COMPLETE 4800/40 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0050031",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SIGNATURE SILVER VIRTUAL COMPLETE 3000/40/73% CSR Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0050031",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SIGNATURE SILVER VIRTUAL COMPLETE 200/20/94% CSR Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0050031",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SILVER VIRTUAL COMPLETE 500/30/87% CSR Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0050030",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SILVER VIRTUAL COMPLETE 4800/40 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0050030",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SILVER VIRTUAL COMPLETE 3000/40/73% CSR Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0050030",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SILVER VIRTUAL COMPLETE 200/20/94% CSR Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0050030",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SIGNATURE GOLD 1800/25 - AI/0 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0050027",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SIGNATURE GOLD 1800/25 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0050027",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA GOLD 1800/25 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0050026",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SIGNATURE SILVER 850/15/87% CSR Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0050025",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SIGNATURE SILVER 4500/35 - AI/0 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0050025",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SIGNATURE SILVER 4500/35 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0050025",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SIGNATURE SILVER 3500/35/73% CSR Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0050025",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SIGNATURE SILVER 150/5/94% CSR Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0050025",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SILVER 850/15/87% CSR Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0050024",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SILVER 4500/35 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0050024",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SILVER 3500/35/73% CSR Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0050024",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SILVER 150/5/94% CSR Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0050024",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SIGNATURE GOLD 1500/20 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0050022",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SIGNATURE CATASTROPHIC 9100/0 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0050021",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SIGNATURE BRONZE 6500/40%/HSA Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0050020",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SIGNATURE BRONZE 6500/40% - AI/LTD Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0050020",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SIGNATURE BRONZE 6500/40% - AI/0 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0050020",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SIGNATURE BRONZE VIRTUAL COMPLETE 5500/60 - AI/LTD Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0050019",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SIGNATURE BRONZE VIRTUAL COMPLETE 5500/60 - AI/0 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0050019",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SIGNATURE BRONZE VIRTUAL COMPLETE 5500/60 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0050019",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SIGNATURE SILVER 800/10%/87% CSR Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0050018",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SIGNATURE SILVER 3500/20%/HSA Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0050018",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SIGNATURE SILVER 3500/20% - AI/0 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0050018",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SIGNATURE SILVER 2700/20%/73% CSR Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0050018",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SIGNATURE SILVER 100/5%/94% CSR Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0050018",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SIGNATURE SILVER 750/20/87% CSR Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0050017",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SIGNATURE SILVER 3400/30 - AI/LTD Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0050017",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SIGNATURE SILVER 3400/30 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0050017",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SIGNATURE SILVER 3300/30/73% CSR Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0050017",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SIGNATURE SILVER 0/5/94% CSR Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0050017",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SIGNATURE GOLD 500/20 - AI/LTD Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0050016",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SIGNATURE GOLD 500/20 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0050016",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA GOLD 1500/20 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0050012",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA CATASTROPHIC 9100/0 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0050010",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA BRONZE 6500/40%/HSA Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0050009",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA BRONZE 6500/40% - AI/LTD Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0050009",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA BRONZE 6500/40% - AI/0 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0050009",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA BRONZE VIRTUAL COMPLETE 5500/60 - AI/0 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0050007",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA BRONZE VIRTUAL COMPLETE 5500/60 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0050007",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SILVER 800/10%/87% CSR Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0050006",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SILVER 3500/20%/HSA Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0050006",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SILVER 2700/20%/73% CSR Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0050006",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SILVER 100/5%/94% CSR Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0050006",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SILVER 750/20/87% CSR Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0050005",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SILVER 3400/30 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0050005",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SILVER 3300/30/73% CSR Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0050005",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA SILVER 0/5/94% CSR Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0050005",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP GA GOLD 500/20 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0050002",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP SILVER 5500/0/50/S9 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0060029",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP SILVER DUAL CHOICE PPO HDHP 5000/20/S9 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "82302GA0030011",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP BRONZE DUAL CHOICE PPO HDHP 6850/10/S10 Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "82302GA0030016",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP GOLD DUAL CHOICE PPO 1000/20/30/S10 OOA Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "82302GA0020020",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP GOLD 1000/20/30/S10 KP PLUS Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "89942GA0160003",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP SILVER DUAL CHOICE PPO 4850/30/50/S10 OOA Kaiser Foundation Health Plan of Georgia",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "82302GA0020025",
+                    "plan_market_type": "group"
+                }
+            ],
+            "in_network_files": [
+                {
+                    "location": "https://healthy.kaiserpermanente.org/pricing/innetwork/ga/2023-11-01_KFHP_GA-COMMERCIAL_in-network-rates.zip",
+                    "description": "in-network file"
+                }
+            ]
+        }
+    ]
+}

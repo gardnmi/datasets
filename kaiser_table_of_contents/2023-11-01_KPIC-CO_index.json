@@ -1,0 +1,52 @@
+{
+    "reporting_entity_name": "Kaiser Permanente Insurance Company",
+    "reporting_entity_type": "Group Health Plan",
+    "reporting_structure": [
+        {
+            "reporting_plans": [
+                {
+                    "plan_name": "KP CO BRONZE PPO 7000/60 RX COPAY Kaiser Permanente Insurance Company of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "35944CO0020003",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP CO GOLD PPO 2000/35 RX COPAY Kaiser Permanente Insurance Company of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "35944CO0020002",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP CO SILVER PPO 3500/50 RX COPAY Kaiser Permanente Insurance Company of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "35944CO0020001",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "Kaiser Permanente Insurance Company",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "35944",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP COLORADO OPTION BRONZE PPO Kaiser Permanente Insurance Company of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "35944CO0050003",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP COLORADO OPTION GOLD PPO Kaiser Permanente Insurance Company of Colorado",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "35944CO0050001",
+                    "plan_market_type": "group"
+                }
+            ],
+            "in_network_files": [
+                {
+                    "location": "https://healthy.kaiserpermanente.org/pricing/innetwork/co/2023-11-01_KPIC_CO-COMMERCIAL_in-network-rates.zip",
+                    "description": "in-network file"
+                }
+            ]
+        }
+    ]
+}

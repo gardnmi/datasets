@@ -1,0 +1,58 @@
+{
+    "reporting_entity_name": "Kaiser Permanente Insurance Company",
+    "reporting_entity_type": "Group Health Plan",
+    "reporting_structure": [
+        {
+            "reporting_plans": [
+                {
+                    "plan_name": "BRONZE 60 PPO 6300/65 + CHILD DENTAL Kaiser Permanente Insurance Company of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "27330CA0130010",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "SILVER 70 PPO 2500/55 + CHILD DENTAL Kaiser Permanente Insurance Company of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "27330CA0130008",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "GOLD 80 PPO 350/25 + CHILD DENTAL Kaiser Permanente Insurance Company of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "27330CA0130007",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "PLATINUM 90 PPO 0/15 + CHILD DENTAL Kaiser Permanente Insurance Company of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "27330CA0130006",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "Kaiser Permanente Insurance Company",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "27330",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "SILVER 70 PPO 2250/55 + CHILD DENTAL Kaiser Permanente Insurance Company of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "27330CA0130008",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "SILVER 70 PPO 2500/55 + CHILD DENTAL (NO CONTRACEPTIVES) Kaiser Permanente Insurance Company of Southern California",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "27330CA0130009",
+                    "plan_market_type": "group"
+                }
+            ],
+            "in_network_files": [
+                {
+                    "location": "https://healthy.kaiserpermanente.org/pricing/innetwork/sc/2023-11-01_KPIC_SC-COMMERCIAL_in-network-rates.zip",
+                    "description": "in-network file"
+                }
+            ]
+        }
+    ]
+}

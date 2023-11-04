@@ -1,0 +1,1858 @@
+{
+    "reporting_entity_name": "Kaiser Foundation Health Plan of the Mid-Atlantic States, Inc.",
+    "reporting_entity_type": "Group Health Plan",
+    "reporting_structure": [
+        {
+            "reporting_plans": [
+                {
+                    "plan_name": "KP VA STANDARD EXPANDED BRONZE 7500/50/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0540025",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP VA STANDARD SILVER 5800/40/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0540024",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP VA STANDARD GOLD 2000/30/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0540023",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP VA STANDARD PLATINUM 0/10/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0540022",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP VA SILVER VIRTURAL FORWARD 5000 Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0540021",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP VA SILVER VIRTUAL FORWARD 4000 Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0540020",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP VA GOLD VIRTUAL FORWARD 2000 Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0540019",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP VA BRONZE 6900/0%/HSA/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0540018",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP VA BRONZE 7500/40% Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0540017",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP VA SILVER 6000/40/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0540016",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP VA GOLD 1700/25/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0540015",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP VA GOLD 1250/20/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0540014",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP VA SILVER 5000/40/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0540013",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP VA PLATINUM 0/15/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0540010",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP VA CATASTROPHIC 9100/0/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0540009",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP VA BRONZE 6000/55/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0540006",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP VA SILVER 2500/35/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0540004",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP VA GOLD 0/20/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0540001",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP VA STANDARD EXPANDED BRONZE 7500/50/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0530024",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP VA AI STANDARD EXPANDED BRONZE 7500/50/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0530024",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP VA STANDARD SILVER 800/20/CSR/VISION (5800) Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0530023",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP VA STANDARD SILVER 5800/40/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0530023",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP VA STANDARD SILVER 5700/30/CSR/VISION (5800) Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0530023",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP VA STANDARD SILVER 0/0/CSR/VISION (5800) Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0530023",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP VA STANDARD GOLD 2000/30/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0530022",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP VA AI STANDARD GOLD 2000/30/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0530022",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP VA STANDARD PLATINUM 0/10/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0530021",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP VA SILVER VIRTUAL FORWARD 750/CSR (4000) Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0530020",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP VA SILVER VIRTUAL FORWARD 4000 Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0530020",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP VA SILVER VIRTUAL FORWARD 2500/CSR (4000) Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0530020",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP VA SILVER VIRTUAL FORWARD 100/CSR (4000) Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0530020",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP VA GOLD VIRTUAL FORWARD 2000 Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0530019",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP VA AI GOLD VIRTUAL FORWARD 2000 Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0530019",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP VA BRONZE 6900/0%/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0530018",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP VA BRONZE 6900/0%/HSA/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0530018",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP VA AI BRONZE 6900/0%/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0530018",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP VA BRONZE 7500/40% Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0530017",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP VA AI BRONZE 7500/40% Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0530017",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP VA SILVER 700/15/CSR/VISION (6000) Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0530016",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP VA SILVER 6000/40/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0530016",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP VA SILVER 3000/40/CSR/VISION (6000) Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0530016",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP VA SILVER 100/5/CSR/VISION (6000) Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0530016",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP VA AI SILVER 6000/40/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0530016",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP VA GOLD 1700/25/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0530015",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP VA AI GOLD 1700/25/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0530015",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP VA GOLD 1250/20/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0530014",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP VA SILVER 5000/40/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0530013",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP VA SILVER 3800/35/CSR/VISION (5000) Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0530013",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP VA SILVER 0/5/CSR/VISION (5000) Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0530013",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP VA SILVER 0/15/CSR/VISION (5000) Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0530013",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP VA PLATINUM 0/15/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0530010",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP VA CATASTROPHIC 9100/0/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0530009",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP VA BRONZE 6000/55/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0530006",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP VA AI BRONZE 6000/55/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0530006",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP VA SILVER 2500/35/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0530004",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP VA SILVER 2500/30/CSR/VISION (2500) Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0530004",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP VA SILVER 0/5/CSR/VISION (2500) Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0530004",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP VA SILVER 0/10/CSR/VISION (2500) Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0530004",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP VA GOLD 0/20/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0530001",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP VA GOLD FLEXIBLE CHOICE 0/20/3TPOS/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0520010",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA GOLD FLEXIBLE CHOICE 500/20/3TPOS/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0520008",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA GOLD FLEXIBLE CHOICE 1000/30/3TPOS/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0520007",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA GOLD ADDED CHOICE 1000/20/POS/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0520005",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA GOLD ADDED CHOICE 0/20/POS/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0520004",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA SILVER ADDED CHOICE 2750/40/POS/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0520003",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA GOLD ADDED CHOICE 1000/20/POS/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0520002",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA GOLD ADDED CHOICE 0/20/POS/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0520001",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA SILVER VIRTUAL FORWARD 3000 Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0510043",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA GOLD VIRTUAL COMPLETE 2000 Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0510042",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA BRONZE DHMO PLUS 6500/50/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0510039",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA SILVER DHMO PLUS 1800/40/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0510038",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA GOLD DHMO PLUS 1500/20/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0510037",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA GOLD 1500/20/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0510035",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA GOLD HMO PLUS 0/20/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0510034",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA PLATINUM HMO PLUS 0/15/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0510033",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA SILVER 4000/0%/HSA/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0510032",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA SILVER 4000/0%/HSA/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0510031",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA GOLD 500/20/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0510030",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA GOLD 500/20/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0510029",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA BRONZE 6000/30/HSA/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0510028",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA BRONZE 7000/0%/HSA/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0510027",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA BRONZE 6500/50/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0510026",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA SILVER 3000/30/HSA/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0510025",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA SILVER 2000/30/HSA/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0510024",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA SILVER ADDED CHOICE 2750/40/POS/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0520006",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA SILVER 2750/40/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0510023",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA SILVER 1800/40/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0510022",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA GOLD 1500/0%/HSA/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0510020",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA GOLD 1500/20/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0510036",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA GOLD 1000/20/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0510019",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA GOLD 0/20/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0510018",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA PLATINUM 0/15/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0510015",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA PLATINUM 500/20/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0510016",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA BRONZE 6000/30/HSA/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0510014",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA BRONZE 7000/0%/HSA/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0510013",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA BRONZE 6500/50/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0510012",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA SILVER 3000/30/HSA/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0510011",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA SILVER 2000/30/HSA/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0510010",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA SILVER 2750/40/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0510009",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA SILVER 1800/40/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0510008",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA GOLD 1500/0%/HSA/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0510006",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA GOLD 1000/20/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0510005",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA GOLD 0/20/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0510004",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA PLATINUM 500/20/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0510002",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA PLATINUM 0/15/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0510001",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA BRONZE 7000/0%/HSA/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0500013",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA PLATINUM 0/15/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0500001",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "Kaiser Foundation Health Plan of the Mid-Atlantic States, Inc.",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP DC PLATINUM ADDED CHOICE 500/10/POS/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0360005",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP DC PLATINUM ADDED CHOICE 0/10/POS/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0360004",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP DC GOLD ADDED CHOICE 1000/20/POS/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0360003",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP DC STANDARD BRONZE 6350/20%/HSA/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0350035",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP DC STANDARD SILVER 4850/40/20%/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0350033",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP DC STANDARD GOLD 500/25/20%/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0350032",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP DC STANDARD PLATINUM 0/20/10%/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0350031",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP DC SILVER VIRTUAL FORWARD 3000 Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0350030",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP DC GOLD VIRTUAL COMPLETE 2000 Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0350029",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP DC GOLD 1500/20/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0350025",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP DC GOLD HMO PLUS 0/20/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0350024",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP DC PLATINUM HMO PLUS 0/10/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0350023",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP DC GOLD 500/20/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0350021",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP DC GOLD 0/20/VISION (SEL) Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0350018",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP DC PLATINUM 0/10/VISION (SEL) Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0350016",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP DC BRONZE 7000/0%/HSA/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0350015",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP DC BRONZE 6000/50/HSA/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0350014",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP DC BRONZE 6500/55/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0350012",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP DC SILVER 3000/30/HSA/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0350011",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP DC SILVER 2000/30/HSA/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0350010",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP DC SILVER 2500/40/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0350009",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP DC SILVER 1750/40/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0350008",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP DC GOLD 1700/0%/HSA/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0350006",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP DC GOLD 1000/20/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0350005",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP DC GOLD 0/20/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0350004",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP DC PLATINUM 0/10/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0350001",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "Kaiser Foundation Health Plan of the Mid-Atlantic States, Inc.",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP MD GOLD FLEXIBLE CHOICE 1500/0/HSA/3TPOS/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0600012",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP MD GOLD FLEXIBLE CHOICE 0/20/3TPOS/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0600008",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP MD GOLD FLEXIBLE CHOICE 1000/20/3TPOS/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0600007",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA BRONZE 8700/0%/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0510040",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA SILVER DHMO PLUS 1750/40/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0510038",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA GOLD 500/20/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0500015",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA BRONZE 6500/50/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0500012",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA SILVER 2000/30/HSA/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0500010",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA SILVER 2750/40/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0500009",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA SILVER 1800/40/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0500008",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA GOLD 1000/20/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0500005",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA GOLD 0/20/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0500004",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA PLATINUM 500/20/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0500002",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP DC SILVER ADDED CHOICE 2500/40/POS/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0360002",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP DC SILVER DHMO PLUS 1750/40/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0350027",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP DC GOLD DHMO PLUS 1500/20/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0350026",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP DC GOLD 1000/20/VISION (SEL) Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0350019",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP DC PLATINUM 500/10/VISION (SEL) Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0350017",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP DC PLATINUM 500/10/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0350002",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP MD BRONZE DHMO PLUS 6500/50/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0590042",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP MD SILVER 4000/40/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0590039",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP MD SILVER DHMO PLUS 1800/40/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0590038",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP MD GOLD DHMO PLUS 1500/20/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0590037",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP MD GOLD 1500/20/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0590036",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP MD GOLD 1500/20/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0590035",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP MD GOLD HMO PLUS 0/20/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0590034",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP MD PLATINUM HMO PLUS 0/10/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0590033",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP MD SILVER 4000/30/HSA/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0590031",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP MD GOLD 500/20/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0590030",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP MD GOLD 500/20/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0590029",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP MD BRONZE 7000/0%/HSA/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0590027",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP MD BRONZE 6500/50/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0590026",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP MD SILVER 3000/30/HSA/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0590025",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP MD SILVER 2000/30/HSA/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0590024",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP MD SILVER 1800/40/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0590022",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP MD GOLD 1500/0%/HSA/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0590020",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP MD GOLD 1000/20/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0590019",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP MD GOLD 0/20/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0590018",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP MD PLATINUM 0/10/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0590015",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP MD BRONZE 6150/30/HSA/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0590014",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP MD BRONZE 7000/0%/HSA/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0590013",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP MD BRONZE 6500/50/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0590012",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP MD SILVER 3000/30/HSA/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0590011",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP MD SILVER 2000/30/HSA/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0590010",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP MD SILVER 2500/40/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0590009",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP MD SILVER 1800/40/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0590008",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP MD GOLD 1500/0%/HSA/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0590006",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP MD GOLD 1000/20/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0590005",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP MD GOLD 0/20/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0590004",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA BRONZE 6850/0%/HSA/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0510027",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA SILVER 2750/30/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0510023",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP MD SILVER 4000/30/HSA/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0590032",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP MD SILVER 2500/40/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0590023",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP MD PLATINUM 500/20/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0590016",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP DC BRONZE ADDED CHOICE 6500/55/POS/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0360001",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA BRONZE 6000/30/20%/HSA/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0510014",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA BRONZE 6850/0%/HSA/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0510013",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP MD PLATINUM 500/20/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0590002",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP MD PLATINUM 0/10/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0590001",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP MD BRONZE 6500/50/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0570012",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP MD SILVER 2000/30/HSA/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0570010",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP MD GOLD 0/20/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0570004",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP MD PLATINUM 500/20/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0570002",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "Kaiser Foundation Health Plan of the Mid-Atlantic States, Inc.",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP DC SILVER VIRTUAL FORWARD 750/CSR (4000) Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0390016",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP DC SILVER VIRTUAL FORWARD 4000 Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0390016",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP DC SILVER VIRTUAL FORWARD 2500/CSR (4000) Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0390016",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP DC SILVER VIRTUAL FORWARD 100/CSR (4000) Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0390016",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP DC GOLD VIRTUAL FORWARD 2000 Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0390015",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP DC GOLD 1600/25%/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0390013",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP DC GOLD 1600/25%/HSA/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0390013",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP DC BRONZE 6500/65/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0390012",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP DC STANDARD GOLD 500/25/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0390011",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP DC STANDARD BRONZE 6350/20%/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0390010",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP DC STANDARD BRONZE 6350/20%/HSA/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0390010",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP DC CATASTROPHIC 9100/0/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0390008",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP DC STANDARD BRONZE 7500/45/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0390007",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP DC SILVER 800/10%/CSR/VISION (3300) Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0390006",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP DC SILVER 3300/30%/HSA/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0390006",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP DC SILVER 2500/20%/CSR/VISION (3300) Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0390006",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP DC SILVER 100/5%/CSR/VISION (3300) Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0390006",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP DC STANDARD SILVER 4850/40/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0390005",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP DC STANDARD SILVER 4100/40/CSR/VISION (4850) Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0390005",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP DC STANDARD SILVER 100/25/CSR/VISION (4850) Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0390005",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP DC STANDARD SILVER 0/5/CSR/VISION (4850) Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0390005",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP DC SILVER 3200/30/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0390004",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP DC SILVER 3100/30/CSR/VISION (3200) Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0390004",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP DC SILVER 0/5/CSR/VISION (3200) Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0390004",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP DC SILVER 0/10/CSR/VISION (3200) Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0390004",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP DC GOLD 1000/20/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0390003",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP DC GOLD 0/20/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0390002",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP DC STANDARD PLATINUM 0/20/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0390001",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP DC STANDARD BRONZE 7500/45/40%/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0350034",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP DC GOLD 1500/20/VISION (SEL) Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0350028",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA SILVER 2750/30/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0510009",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA SILVER 1750/40/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0510008",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP DC GOLD 500/20/VISION (SEL) Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0350022",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA GOLD 1400/0%/HSA/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0510006",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP DC GOLD 1700/0%/HSA/VISION (SEL) Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0350020",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA SILVER 1750/40/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0500008",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP MD BRONZE 7000/0%/HSA/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0570013",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP DC GOLD VIRTUAL FORWARD 2000 Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0350029",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP MD GOLD 1500/0%/HSA/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0570006",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP MD PLATINUM 0/10/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0570001",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP DC SILVER 2500/30/HSA/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0350011",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP MD SILVER ADDED CHOICE 2500/40/POS/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0600006",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP MD GOLD ADDED CHOICE 1000/20/POS/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0600005",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP MD SILVER ADDED CHOICE 2500/40/POS/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0600002",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP MD GOLD ADDED CHOICE 1000/20/POS/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0600001",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP MD SILVER 4000/40/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0590040",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA BRONZE 6000/30/HSA/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0500014",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP MD GOLD FLEXIBLE CHOICE 1400/0/HSA/3TPOS/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0600012",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP MD BRONZE ADDED CHOICE 6500/50/POS/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0600003",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP MD SILVER DHMO PLUS 4000/40/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0590041",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP MD SILVER DHMO PLUS 1850/40/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0590038",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP MD BRONZE 6150/30/HSA/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0590028",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP MD SILVER 1800/40/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0570008",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA SILVER ADDED CHOICE 2750/30/POS/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0520003",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA BRONZE 6000/30/20%/HSA/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0510028",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA SILVER 1750/40/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0510022",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP VA GOLD 1400/0%/HSA/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0510020",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP MD SILVER 1850/40/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0590022",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP MD GOLD 1400/0%/HSA/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0590020",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP MD BRONZE 6850/0%/HSA/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0590013",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP MD SILVER 1850/40/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0590008",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP MD GOLD 1400/0%/HSA/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0590006",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP MD SILVER 2500/40/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0570009",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP MD SILVER VIRTUAL FORWARD 5000 Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0620021",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP MD SILVER VIRTUAL FORWARD 4000/OFF Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0620020",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP MD GOLD VIRTUAL FORWARD 2000 Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0620019",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP MD BRONZE 7500/40%/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0620018",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP MD SILVER 6000/40/VISION/OFF Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0620017",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP MD SILVER 3200/20%/HSA/VISION/OFF Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0620016",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP MD SILVER VALUE 2500/35/VISION/OFF Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0620015",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP MD GOLD 1750/20/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0620013",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP MD BRONZE VALUE 6700/40/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0620011",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP MD PLATINUM 0/15/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0620010",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP MD SILVER VIRTUAL FORWARD 3000 Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0590044",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP MD BRONZE 6900/0%/HSA/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0620009",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP MD CATASTROPHIC 9100/0/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0620007",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP MD GOLD VALUE 1000/20/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0620002",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP MD GOLD VALUE 0/20/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0620001",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP MD SILVER VIRTUAL FORWARD 750/CSR (4000) Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0610016",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP MD SILVER VIRTUAL FORWARD 4000 Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0610016",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP MD SILVER VIRTUAL FORWARD 2500/CSR (4000) Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0610016",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP MD SILVER VIRTUAL FORWARD 100/CSR (4000) Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0610016",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP MD GOLD VIRTUAL FORWARD 2000 Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0610015",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP MD BRONZE 7500/40%/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0610014",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP MD GOLD 1750/20/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0610013",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP MD SILVER 6000/40/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0610012",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP MD SILVER 3800/35/CSR/VISION (6000) Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0610012",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP MD SILVER 0/5/CSR/VISION (6000) Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0610012",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP MD SILVER 0/15/CSR/VISION (6000) Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0610012",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP MD BRONZE VALUE 6700/40/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0610011",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP MD PLATINUM 0/15/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0610010",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP MD BRONZE 6900/0%/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0610009",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP MD BRONZE 6900/0%/HSA/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0610009",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP MD CATASTROPHIC 9100/0/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0610007",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP MD SILVER 650/10%/CSR/VISION (3200) Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0610005",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP MD SILVER 3200/20%/HSA/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0610005",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP MD SILVER 2300/20%/CSR/VISION (3200) Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0610005",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP MD SILVER 100/5%/CSR/VISION (3200) Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0610005",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP MD SILVER VALUE 2500/35/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0610004",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP MD SILVER 2500/30/CSR/VISION (2500) Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0610004",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP MD SILVER 0/5/CSR/VISION (2500) Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0610004",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP MD SILVER 0/10/CSR/VISION (2500) Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0610004",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP MD GOLD VALUE 1000/20/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0610002",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP MD GOLD VALUE 0/20/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0610001",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP VA SILVER 4000/0%/HSA/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "95185VA0500016",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP MD GOLD 1000/20/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0570005",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP DC BRONZE 6000/50/20%/HSA/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "94506DC0350014",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP MD BRONZE 6850/0%/HSA/VISION Kaiser Foundation Health Plan of Mid-Atlantic States",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "90296MD0590027",
+                    "plan_market_type": "group"
+                }
+            ],
+            "in_network_files": [
+                {
+                    "location": "https://healthy.kaiserpermanente.org/pricing/innetwork/ma/2023-11-01_KFHP_MA-COMMERCIAL_in-network-rates.zip",
+                    "description": "in-network file"
+                }
+            ]
+        }
+    ]
+}

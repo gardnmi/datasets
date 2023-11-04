@@ -1,0 +1,1012 @@
+{
+    "reporting_entity_name": "Kaiser Foundation Health Plan, Inc., on behalf of the Hawaii Region",
+    "reporting_entity_type": "Group Health Plan",
+    "reporting_structure": [
+        {
+            "reporting_plans": [
+                {
+                    "plan_name": "KP PLATINUM ADDED CHOICE - $20 - OPTICAL 200 - DENT W/D&P - Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0160018",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP PLATINUM ADDED CHOICE - $20 - OPTICAL 200 - DENT - CHIROA Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0160016",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP HI PLATINUM 0/20 RX DED - OPTICAL 200 - DENT - CHIROACUMA Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140135",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP HI PLATINUM 0/20 RX DED - OPTICAL 200 - DENT Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140134",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP HI PLATINUM 0/20 RX DED - OPTICAL 200 Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140127",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP HI PLATINUM 0/20 RX DED Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140124",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP GOLD I - $20 - OPTICAL 200 Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140123",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP HI PLATINUM 0/20 - OPTICAL 200 - DENT - CHIROACUMASSAGENA Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140111",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP HI PLATINUM 0/20 - OPTICAL 200 - DENT Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140110",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP HI PLATINUM 0/20 - OPTICAL 200 - CHIROACUMASSAGENATUROPAT Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140109",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP HI PLATINUM 0/20 - CHIROACUMASSAGENATUROPATHY Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140105",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP HI PLATINUM 0/20 - OPTICAL 200 Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140104",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP HI PLATINUM 0/15 - OPTICAL 200 - DENT W/D&P - CHIROACUMAS Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140095",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP HI PLATINUM 0/15 - OPTICAL 200 - DENT - CHIROACUMASSAGENA Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140092",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP HI PLATINUM 0/15 - OPTICAL 200 - DENT Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140091",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP HI PLATINUM 0/15 - OPTICAL 200 - CHIROACUMASSAGENATUROPAT Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140090",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP HI PLATINUM 0/15 - DENT  - CHIROACUMASSAGENATUROPATHY Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140088",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP HI PLATINUM 0/15 - CHIROACUMASSAGENATUROPATHY Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140086",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP HI PLATINUM 0/15 - OPTICAL 200 Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140085",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP GOLD I - $20 - FLEX -OPTICAL 150 - DENT - CHIROACUMASSAGE Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140075",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP GOLD I - $20 - OPTICAL 150  - DENT - CHIROACUMASSAGENATUR Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140074",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP GOLD I - $20 - OPTICAL 150 - DENT Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140073",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP GOLD I - $20 - OPTICAL 150  - CHIROACUMASSAGENATUROPATHY Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140072",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP GOLD I - $20 - OPTICAL Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140070",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP GOLD I - $20 - DENT Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140069",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP GOLD I - $20 - PEDDENT Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140068",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP GOLD I - $20 Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140067",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP HI PLATINUM 0/20 - OPTICAL 150 - DENT - CHIROACUMASSAGENA Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140065",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP HI PLATINUM 0/20 - OPTICAL 150 - DENT Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140064",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP HI PLATINUM 0/20 - OPTICAL 150 - CHIROACUMASSAGENATUROPAT Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140063",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP HI PLATINUM 0/20 - OPTICAL 150 Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140061",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP HI PLATINUM 0/20 Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140058",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP HI PLATINUM 0/15 - FLEX - OPTICAL 150 - DENT - CHIROACUMA Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140057",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP HI GOLD 300/20 - B - OPTICAL 150 - DENT - CHIROACUMASSAGE Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140041",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP HI GOLD 300/20 - B - OPTICAL 150 - DENT Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140039",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP HI GOLD 300/20 - B - OPTICAL 150 Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140037",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP HI GOLD 300/20 - B Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140034",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP HI PLATINUM 0/15 - DENT Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140033",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP HI PLATINUM 0/15 - OPTICAL 150 - DENT Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140032",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP HI PLATINUM 0/15 - OPTICAL 150 Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140031",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP HI PLATINUM 0/15 Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140028",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP HI PLATINUM 0/15 - OPTICAL 150 - DENT - CHIROACUMASSAGENA Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140008",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP HI GOLD 300/20 - B - OPTICAL 150 - CHIROACUMASSAGENATUROP Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140004",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP HI PLATINUM 0/15 - OPTICAL 150 - CHIROACUMASSAGENATUROPAT Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140001",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP HI STANDARD BRONZE 7500/50 PEDDENT Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0120040",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI STANDARD SILVER 5800/40 PEDDENT Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0120039",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI SILVER 5000/45 PEDDENT Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0120038",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI STANDARD GOLD 2000/30 PEDDENT Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0120037",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI STANDARD PLATINUM 0/10 PEDDENT Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0120036",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI STANDARD BRONZE 7500/50 OFF Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0120035",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI STANDARD GOLD 2000/30 OFF Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0120034",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI STANDARD PLATINUM 0/10 OFF Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0120033",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI STANDARD SILVER 5800/40 OFF Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0120032",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI SILVER 5000/45/OFF Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0120031",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI BRONZE 6500/30% PEDDENT Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0120030",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI BRONZE 6500/30% OFF Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0120029",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI SILVER 4000/45 PEDDENT Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0120027",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI GOLD 1000/30 PEDDENT Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0120025",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI BRONZE 6000/65 PLUS CAM PEDDENT Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0120024",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI SILVER 3000/45 PLUS CAM PEDDENT Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0120023",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI GOLD 0/30 PLUS CAM PEDDENT Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0120021",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI PLATINUM 0/5 PLUS CAM PEDDENT Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0120020",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI BRONZE 6000/65 PEDDENT Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0120019",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI SILVER 3000/45 PEDDENT Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0120018",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI GOLD 0/30 PEDDENT Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0120016",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI PLATINUM 0/5 PEDDENT Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0120015",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI SILVER 4000/45 OFF Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0120013",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI GOLD 1000/30 OFF Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0120011",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI BRONZE 6000/65 PLUS CAM OFF Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0120010",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI SILVER 3000/45 PLUS CAM OFF Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0120009",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI GOLD 0/30 PLUS CAM OFF Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0120007",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI PLATINUM 0/5 PLUS CAM OFF Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0120006",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI BRONZE 6000/65 OFF Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0120005",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI SILVER 3000/45 OFF Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0120004",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI GOLD 0/30 OFF Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0120002",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI PLATINUM 0/5 OFF Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0120001",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI STANDARD BRONZE 7500/50 - AI/LTD Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0110020",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI STANDARD BRONZE 7500/50 - AI/0 Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0110020",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI STANDARD BRONZE 7500/50 Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0110020",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI STANDARD SILVER 800/20 CSR87 Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0110019",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI STANDARD SILVER 5800/40 Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0110019",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI STANDARD SILVER 5700/30 CSR73 Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0110019",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI STANDARD SILVER 0/0 CSR94 Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0110019",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI STANDARD GOLD 2000/30 - AI/0 Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0110018",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI STANDARD GOLD 2000/30 Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0110018",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI STANDARD PLATINUM 0/10 Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0110017",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI BRONZE 6500/30% - AI/0 Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0110015",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI BRONZE 6500/30% Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0110015",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI SILVER 750/20 CSR87 Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0110013",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI SILVER 4000/45 Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0110013",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI SILVER 3000/45 CSR73 Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0110013",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI SILVER 25/5 CSR94 Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0110013",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI GOLD 1000/30 Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0110011",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI BRONZE 6000/65 PLUS CAM Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0110010",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI BRONZE 6000/65 - PLUS CAM AI/LTD Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0110010",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI BRONZE 6000/65 - PLUS CAM AI/0 Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0110010",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI SILVER 3000/45 PLUS CAM Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0110009",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI SILVER 2850/45 CSR73 PLUS CAM Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0110009",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI SILVER 250/20 CSR87 PLUS CAM Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0110009",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI SILVER 0/5 CSR94 PLUS CAM Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0110009",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI GOLD 0/30 PLUS CAM - AI/LTD Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0110007",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI GOLD 0/30 PLUS CAM Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0110007",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI PLATINUM 0/5 PLUS CAM Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0110006",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI PLATINUM 0/5 - PLUS CAM AI/LTD Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0110006",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI BRONZE 6000/65 - AI/LTD Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0110005",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI BRONZE 6000/65 - AI/0 Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0110005",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI BRONZE 6000/65 Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0110005",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI SILVER 3000/45 Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0110004",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI SILVER 2850/45 CSR73 Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0110004",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI SILVER 250/20 CSR87 Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0110004",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI SILVER 0/5 CSR94 Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0110004",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI GOLD 0/30 - AI/0 Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0110002",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI GOLD 0/30 Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0110002",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "KP HI PLATINUM 0/5 Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0110001",
+                    "plan_market_type": "individual"
+                },
+                {
+                    "plan_name": "Kaiser Foundation Health Plan, Inc., on behalf of the Hawaii Region",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP PLATINUM II - $20 - OPTICAL 200 - DENT - CHIROACUMASSAGEN Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140135",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP PLATINUM II - $20 - OPTICAL 200 - DENT Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140134",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP PLATINUM II - $20 Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140124",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP PLATINUM I - $20 - OPTICAL 200 - DENT - CHIROACUMASSAGENA Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140111",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP PLATINUM I - $20 - OPTICAL 200 Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140104",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP PLATINUM - $15 - OPTICAL 200 - DENT W/D&P - CHIROACUMASSA Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140095",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP PLATINUM - $15 - OPTICAL 200 - DENT - CHIROACUMASSAGENATU Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140092",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP PLATINUM - $15 - OPTICAL 200 - DENT Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140091",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP PLATINUM - $15 - OPTICAL 200 - CHIROACUMASSAGENATUROPATHY Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140090",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP HI PLATINUM 0/15 - FLEX - OPTICAL 200 - DENT W/D&P - CHIR Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140096",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP HI PLATINUM 0/15 -FLEX - OPTICAL 200 - DENT - CHIROACUMAS Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140093",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP HI PLATINUM 0/20 RX DED - OPTICAL 200 - CHIROACUMASSAGENA Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140133",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP HI PLATINUM 0/20 - DENT - CHIROACUMASSAGENATUROPATHY Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140107",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP HI PLATINUM 0/15 - OPTICAL 200  - DENT W/D&P Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140094",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP HI PLATINUM 0/20 - FLEX - OPTICAL 150 - DENT - CHIROACUMA Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140066",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP HI GOLD 300/20 - B - DENT Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140040",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP PLATINUM I - $20 - OPTICAL 150  - DENT - CHIROACUMASSAGEN Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140065",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP PLATINUM I - $20 - OPTICAL 150 - DENT Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140064",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP PLATINUM I - $20 - OPTICAL 150  - CHIROACUMASSAGENATUROPA Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140063",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP PLATINUM I - $20 - OPTICAL 150 Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140061",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP HI PLATINUM 0/20 - DENT Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140060",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP PLATINUM I - $20 Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140058",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP PLATINUM - $15 - FLEX - OPTICAL 150 - DENT - CHIROACUMASS Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140057",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP GOLD - $15 - OPTICAL 150  - DENT - CHIROACUMASSAGENATUROP Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140041",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP GOLD - $15 - OPTICAL 150 - DENT Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140039",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP GOLD - $15 Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140034",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP PLATINUM - $15 - OPTICAL 150 - DENT Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140032",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP PLATINUM - $15 - OPTICAL 150 Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140031",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP PLATINUM - $15 Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140028",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP PLATINUM - $15 - OPTICAL 150  - DENT - CHIROACUMASSAGENAT Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140008",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP GOLD - $15 - OPTICAL 150  - CHIROACUMASSAGENATUROPATHY Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140004",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP PLATINUM - $15 - OPTICAL 150  - CHIROACUMASSAGENATUROPATH Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140001",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP PLATINUM I - $20 - OPTICAL 200 - DENT Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140110",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP PLATINUM I - $20 - OPTICAL 200 - CHIROACUMASSAGENATUROPAT Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140109",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP PLATINUM - $15 - DENT  - CHIROACUMASSAGENATUROPATHY Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140088",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP PLATINUM - $15 - OPTICAL 200 Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140085",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP HI PLATINUM 0/20 RX DED - DENT - CHIROACUMASSAGENATUROPAT Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140131",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP HI PLATINUM 0/20 RX DED - DENT Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140126",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP PLATINUM I - $20 - DENT Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140060",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP GOLD - $15 - OPTICAL 150 Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140037",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP PLATINUM - $15 - DENT Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140033",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP HI PLATINUM 0/20 - $20 - FLEX - OPTICAL 200 - DENT - CHIR Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140112",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP GOLD I - $20 - FLEX Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140071",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP PLATINUM ADDED CHOICE - $20 - OPTICAL 200 Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0160009",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP HI PLATINUM 0/20 - OPTICAL 200  - DENT W/D&P Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140113",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP PLATINUM II - $20 - DENT Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140126",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP PLATINUM I - $20 - FLEX - OPTICAL 150 - DENT - CHIROACUMA Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140066",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP GOLD - $15 - DENT Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140040",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP HI PLATINUM 0/20 RX DED - OPTICAL 200 - DENT W/D&P - CHIR Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140138",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP HI PLATINUM 0/15 - OPTICAL 200/200 - DENT W/D&P - CHIROAC Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140098",
+                    "plan_market_type": "group"
+                },
+                {
+                    "plan_name": "KP HI PLATINUM 0/15 - DENT W/D&P Kaiser Foundation Health Plan of Hawaii",
+                    "plan_id_type": "HIOS",
+                    "plan_id": "60612HI0140087",
+                    "plan_market_type": "group"
+                }
+            ],
+            "in_network_files": [
+                {
+                    "location": "https://healthy.kaiserpermanente.org/pricing/innetwork/hi/2023-11-01_KFHP_HI-COMMERCIAL_in-network-rates.zip",
+                    "description": "in-network file"
+                }
+            ]
+        }
+    ]
+}
