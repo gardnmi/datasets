@@ -48,7 +48,7 @@
       "in_network_files": [
         {
           "description": "in-network file",
-          "location": "https://raw.githubusercontent.com/CMSgov/price-transparency-guide/master/examples/in-network-rates/in-network-rates-fee-for-service-single-plan-sample.json"
+          "location": "https://raw.githubusercontent.com/gardnmi/datasets/main/in-network-rates-fee-for-service-single-plan-sample.json"
         },
         {
           "description": "in-network file",
